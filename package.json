@@ -1,6 +1,7 @@
 {
   "name": "express-simple-starter",
   "private": true,
+  "description": "mongoose data modeling",
   "scripts": {
     "start": "node index.js"
   },
